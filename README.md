@@ -1,6 +1,6 @@
 # Virus-Population-Dynamics
 
-![Alt text](https://example.com/path/to/image.png)
+![Alt text]([https://example.com/path/to/image.png](https://globalbiodefense.com/wp-content/uploads/2021/03/viral-infections-bacterial-population-subsets.jpg))
 
 
 Virus Population Dynamics Simulation with Drug Treatment
