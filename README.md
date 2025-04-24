@@ -1,5 +1,7 @@
 # Virus-Population-Dynamics
-https://assets.medpagetoday.net/media/images/98xxx/98414.jpg?width=0.8
+
+![Alt text](https://example.com/path/to/image.png)
+
 
 Virus Population Dynamics Simulation with Drug Treatment
 
