@@ -1,4 +1,6 @@
 # Virus-Population-Dynamics
+https://assets.medpagetoday.net/media/images/98xxx/98414.jpg?width=0.8
+
 Virus Population Dynamics Simulation with Drug Treatment
 
 To create a simple but insightful simulation of virus replication and evaluate the impact of a drug that reduces virus replication after a specific number of days.
